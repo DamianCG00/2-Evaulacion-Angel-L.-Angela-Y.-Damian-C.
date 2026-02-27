@@ -11,8 +11,8 @@ Deteccion de Ciclos: Es on algoritmo que se usa para identificar su los caminos 
 ## Implementación
 Al estar desarrolando el código tuvimos que tomar algunas deciciones: 
 - Al usar el ciclo "while" evitamos que el error de desbordamiento de la memoria "overflow"
-- Usamos el método "get" para poder "blindar" el código al acceder a los "diccionarios" de esta forma se evita que el código colapse al leer nodos sin conexion alguna
-- De forma similar, usamos validaciones en la Pila creada para evitar errores sí se desea extraer informacón de los nodos, pero estos esten "vacios".
+- Usamos el método "set"para poder definir y guardar las definicioes o valores a una palabra clave para el programa, basciamente es asignar un valor a una palabra clave y que el programa lo recuerde.
+-  De forma similar, usamos validaciones en la Pila creada para evitar errores sí se desea extraer informacón de los nodos, pero estos esten "vacios".
 
 
 ## Resultados:
